@@ -22,6 +22,8 @@
 - [BONUS] Host the backend application on any cloud platform of your choice <br>
     ->Bonus points for candidates who host their backend application
 
+## Prerequisite for this to run on local
+  -> Install all required node_modules
 
 ## About To Me
 - Full Name : Jatin Pal
